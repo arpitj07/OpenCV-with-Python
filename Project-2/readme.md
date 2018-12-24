@@ -9,23 +9,17 @@ ________________________________________________________________________________
 <img title="Original Image" src="OriginalImage.jpg" alt="Original Image" width="300" />
 
 
-
-
-
-
 <p float="left">
-  <img title= "Sharp Filter" src="sharpFilter.jpg" alt="Shrp Filter" width="400" />
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-  <img title="Blur Filter" src="blurFilter.jpg" alt="Blur Filter" width="400" /> 
+  <img title= "Sharp Filter" src="sharpFilter.jpg" alt="Shrp Filter" width="300" />
+  <figcaption> Sharp Filter</figcaption>
+  <img title="Blur Filter" src="blurFilter.jpg" alt="Blur Filter" width="300" /> 
+  <figcaption> Blur Filter</figcaption>
 </p>
-
-
-
-
-
 
 <p float="left">
   <img title= "Edge Filter" src="edgeFilter.jpg" width="400" />
+  <figcaption> Edge Filter </figcaption>
   <img title= "emboss Filter" src="embossFilter.jpg" width="400" /> 
+  <figcaption> Emboss Filter</figcaption>
 </p>
 
