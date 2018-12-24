@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 Original Image |
 :---------------:
-<img src="OriginalImage.jpg" width="300" </img> 
+<img src="OriginalImage.jpg" width="300" /> 
 
 Sharp Filter| Blur Filter
 ---------|----------
