@@ -6,7 +6,8 @@ This folder contains all the code snippets from the chapter 3 of the book.
 _______________________________________________________________________________________________________________________________
 
 Original Image |
-<img src="OriginalImage.jpg" width=300 </img> |
+:---------------:
+<img src="OriginalImage.jpg" width="300" </img> 
 
 Sharp Filter| Blur Filter
 ---------|----------
