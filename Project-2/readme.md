@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 
 <p
-  <img src="OriginalImage.jpg" width="300" />
+  <img src="Originalimage.jpg" width="300" />
 </p>
 
 
-![alt-text-1](sharpFilter.jpg "sharp filter") ![alt-text-2](blurFilter.jpg "blur filter")
+![sharp filter](sharpFilter.jpg "sharp filter") ![blur filter](blurFilter.jpg "blur filter")
 
 
 
