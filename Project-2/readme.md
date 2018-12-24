@@ -8,11 +8,10 @@ ________________________________________________________________________________
 
 ![Original Image](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/OriginalImage.jpg)
 
-
-![Sharp Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/sharpFilter.jpg) ![Blur Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/blurFilter.jpg)
-
-
-
- Image 3 | Image 4 
+Sharp Filter| Blur Filter
+---------|----------
+![Sharp Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/sharpFilter.jpg) |![Blur Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/blurFilter.jpg)
+---------|----------
+ Edge Filter | Emboss Filter 
 ---------|----------
 ![ Edge Filter ](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/edgeFilter.jpg) | ![embossFilter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/embossFilter.jpg)
