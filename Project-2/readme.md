@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 
 <p
-  <img src="originalImage.jpg" width="100" />
+  <img src="OriginalImage.jpg" width="300" />
 </p>
 
 
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 <p float="left">
-  <img src="edgeFilter.jpg" width="100" />
-  <img src="embossFilter.jpg" width="100" /> 
+  <img src="edgeFilter.jpg" width="300" />
+  <img src="embossFilter.jpg" width="300" /> 
 </p>
 
