@@ -11,13 +11,16 @@ ________________________________________________________________________________
 </p>
 
 
-![sharp filter](sharpFilter.jpg "sharp filter") ![blur filter](blurFilter.jpg "blur filter")
 
+<p float="left">
+  <img Title= "Sharp Filter" src="sharpFilter.jpg" width="400" />
+  <img Title="Blur Filter" src="blurFilter.jpg" width="400" /> 
+</p>
 
 
 
 <p float="left">
-  <img src="edgeFilter.jpg" width="300" />
-  <img src="embossFilter.jpg" width="300" /> 
+  <img Title= "Edge Filter" src="edgeFilter.jpg" width="400" />
+  <img Title= "emboss Filter src="embossFilter.jpg" width="400" /> 
 </p>
 
