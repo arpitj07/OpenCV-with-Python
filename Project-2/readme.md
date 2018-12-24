@@ -9,10 +9,18 @@ ________________________________________________________________________________
 <img title="Original Image" src="OriginalImage.jpg" alt="Original Image" width="300" />
 
 
+
+
+
+
 <p float="left">
   <img title= "Sharp Filter" src="sharpFilter.jpg" alt="Shrp Filter" width="400" />
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   <img title="Blur Filter" src="blurFilter.jpg" alt="Blur Filter" width="400" /> 
 </p>
+
+
+
 
 
 
