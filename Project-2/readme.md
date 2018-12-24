@@ -6,10 +6,7 @@ This folder contains all the code snippets from the chapter 3 of the book.
 _______________________________________________________________________________________________________________________________
 
 
-<p
-  <img title="Original Image" src="OriginalImage.jpg" width="300" />
-</p>
-
+<img title="Original Image" src="OriginalImage.jpg" alt="Original Image" width="300" />
 
 
 <p float="left">
