@@ -23,3 +23,11 @@ Sharp Filter| Blur Filter
 
 ### Contours - bounding box, minimum area rectangle, and minimum enclosing circle
 ______________________________________________________________________________________________________________________________
+
+- Run the code in the command window 
+
+`python chapter-13-contours.py`
+
+Original Image| Image showing contours
+---------|----------
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/images/Contour.jpg)
