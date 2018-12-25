@@ -10,15 +10,15 @@ ________________________________________________________________________________
 
 Original Image |
 :---------------:
-<img src="OriginalImage.jpg" width="300" /> 
+<img src="Images/OriginalImage.jpg" width="300" /> 
 
 Sharp Filter| Blur Filter
 ---------|----------
-![Sharp Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/sharpFilter.jpg) |![Blur Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/blurFilter.jpg)
+![Sharp Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/sharpFilter.jpg) |![Blur Filter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/blurFilter.jpg)
 
  Edge Filter | Emboss Filter 
 ---------|----------
-![ Edge Filter ](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/edgeFilter.jpg) | ![embossFilter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/embossFilter.jpg)
+![ Edge Filter ](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/edgeFilter.jpg) | ![embossFilter](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/embossFilter.jpg)
 
 
 ### Contours - bounding box, minimum area rectangle, and minimum enclosing circle
@@ -30,4 +30,4 @@ ________________________________________________________________________________
 
 Original Image| Image showing contours
 ---------|----------
-![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/images/Contour.jpg)
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/Contour.jpg)
