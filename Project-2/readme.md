@@ -42,5 +42,5 @@ ________________________________________________________________________________
 
 Original Image| Approx contours | convex Hull
 ---------|----------|---------
-![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image3.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/approxContour.jpg)| ![Convex Hull](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/convexHull.jpg)
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image3.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/approxContour.jpg)| ![Convex Hull](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/ConvexHull.jpg)
 
