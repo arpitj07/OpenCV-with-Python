@@ -31,3 +31,16 @@ ________________________________________________________________________________
 Original Image| Image showing contours
 ---------|----------
 ![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/Contour.jpg)
+
+
+### Contours – convex contours and the Douglas-Peucker algorithm
+______________________________________________________________________________________________________________________________
+
+- Run the code in the command window 
+
+`python chapter-13-contours_2.py`
+
+Original Image| Approx contours | convex Hull
+---------|----------|---------
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image3.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/approxContour.jpg)| ![convex Hull](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/convexHull.jpg)
+
