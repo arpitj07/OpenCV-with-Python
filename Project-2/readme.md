@@ -44,3 +44,22 @@ Original Image| Approx contours | convex Hull
 ---------|----------|---------
 ![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image3.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/approxContour.jpg)| ![Convex Hull](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/ConvexHull.jpg)
 
+
+### Line Detection and Circle Detection 
+_______________________________________________________________________________________________________________________________
+
+- Run the code in the command window 
+
+`python chapter-13-line_circle_detection.py`
+
+Original Image| Line Detection
+---------|----------
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image6.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/LineDetection.jpg)
+
+
+Original Image| Circle Detection
+---------|----------
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/images5.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/CircleDetection.jpg)
+
+
+
