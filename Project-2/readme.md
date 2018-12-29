@@ -54,12 +54,12 @@ ________________________________________________________________________________
 
 Original Image| Line Detection
 ---------|----------
-![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image6.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/LineDetection.jpg)
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/image6.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/Linedetection.jpg)
 
 
 Original Image| Circle Detection
 ---------|----------
-![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/images5.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/CircleDetection.jpg)
+![Original](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/images5.jpg) |![Contour](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-2/Images/Circledetection.jpg)
 
 
 
