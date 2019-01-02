@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ![Left Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis1.jpg)|![Right Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis2.jpg)
 
 **disparity map trackbar** 
-![](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/disparity.gif) 
+![gif](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/disparity.gif) 
 
 
 
