@@ -6,11 +6,12 @@ ________________________________________________________________________________
 
 **Stereo Images**
 
-| Left Image | Right Image |
--------------|-------------|
-|![Left Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis1.jpg)|![Right Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis2.jpg)|
+ Left Image | Right Image 
+-------------|-------------
+![Left Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis1.jpg)|![Right Image](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/dis2.jpg)
 
-![gif](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/disparity.gif)
+**disparity map trackbar** |
+![gif](https://github.com/arpitj07/OpenCV-with-Python/tree/master/Project-3/Images/disparity.gif) |
 
 
 
