@@ -25,4 +25,4 @@ Run the following command:
 
 Original Image | Masked Image 
 ---------------|--------------
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/image1.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/grabcut.jpg)
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/image1.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/grabCut.jpg)
