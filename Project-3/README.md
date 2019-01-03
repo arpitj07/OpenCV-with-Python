@@ -35,5 +35,5 @@ Run the following command:
 
 Original Image | Output Image 
 ---------------|-------------- 
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/leaf.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/leaf_output.jpg)
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/leaf.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/Leaf_output.jpg)
 
