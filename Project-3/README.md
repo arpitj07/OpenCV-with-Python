@@ -37,3 +37,11 @@ Original Image | Output Image
 ---------------|-------------- 
 ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/leaf.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/Leaf_output.jpg) 
 
+
+## Foreground detection with watershed algorithm on videos 
+
+Run the following command:
+`python chapter-4-Watershed.py`
+
+**Result**
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-3/Images/watershed.gif) 
