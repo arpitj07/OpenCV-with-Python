@@ -21,7 +21,7 @@ argument to be passed in the command- `[file] <path/to/image> [<path/to/store/ei
 
 
 
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-4/Face%20Recognition/FaceRecognitin.gif)
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-4/Face%20Recognition/FaceRecognition.gif)
 
 
 
