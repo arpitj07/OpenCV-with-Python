@@ -5,16 +5,50 @@
     to install the version just run these commands 
     ```
     pip install opencv-python==3.4.2.16
-    pip install opencv-contrib-python==3.4.2.16```
+    pip install opencv-contrib-python==3.4.2.16
+    ```
  
  **Algorithm used** - cornerHarris
  
  run the following command in the shell 
  
- `
+ ```
  python cornerHarris.py
- `
+ ```
  
  **RESULTS**
  
 ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/cornerHarris.jpg)
+
+
+## Feature extraction and description using DOG and SIFT
+
+run the following command 
+```
+python SIFT.py --input images/ 
+```
+
+**RESULTS**
+
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/SIFT.jpg)
+
+
+## Feature extraction and description using Fast Hessian and SURF
+
+run the following command
+```
+python SURF.py --input images/ --algorithm SIFT
+or
+
+python SURF.py --input images/ --algorithm SURF
+```
+
+**RESULTS**
+
+Original | SURF | SIFT 
+---------|-------|------
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/city2.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/detected-SURF.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/detected-SIFT.jpg)
+
+
+
+
