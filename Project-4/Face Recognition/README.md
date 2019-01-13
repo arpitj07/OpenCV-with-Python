@@ -17,8 +17,6 @@
 Run the following command : 
 argument to be passed in the command- `[file] <path/to/image> [<path/to/store/eigen faces>]`
 
-`python -B main.py "C:/Users/ARPIT JAIN/Desktop/Face Recognition" "C:/Users/ARPIT JAIN/Desktop/Face Recognition/output"`
-
 
 
 ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-4/Face%20Recognition/FaceRecognition.gif)
