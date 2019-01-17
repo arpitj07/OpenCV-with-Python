@@ -63,3 +63,15 @@ Image-1 | Image-2 | Feature Match
 --------|---------|--------------
 ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/Breaking%20Bad.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/Breaking%20Bad-2.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/ORB.jpg)
 
+
+## Feature matching using KNN
+
+run the following command 
+
+```
+python KNN.py --input images/
+```
+
+**RESULS**
+
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/KNN.mp4)
