@@ -69,9 +69,9 @@ Image-1 | Image-2 | Feature Match
 run the following command 
 
 ```
-python KNN.py --input images/
+python KNNmatching.py --input images/
 ```
 
 **RESULS**
 
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/KNN.mp4)
+![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/KNN.gif)
